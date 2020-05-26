@@ -1,0 +1,38 @@
+body {
+    margin: 5%;
+    background-color: #349eeb;
+}
+
+.my-row {
+    margin: auto;
+    width: 1000px;
+    padding: 10px;
+}
+.my-col:hover{
+    box-shadow: 4px 4px 4px black;
+}
+.my-col {
+    border: 3px solid blue;
+    width: 100%;
+    padding: 0 5px 0 5px;
+    height: 350px;
+    padding: 20px;
+    display: table;
+    text-align: center;
+    background-color: white;
+}
+.btn-learnmore{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    position: absolute;
+    right: 25%;
+    bottom: 20px;
+    width: 50%;
+    height: 10%;
+}
+.btn-learnmore:hover{
+    background-color: #349eeb;
+    color: white;
+}
