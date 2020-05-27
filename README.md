@@ -1,3 +1,3 @@
 # bootstrap
 
-[https://lennvdh.github.io/bootstrap/](website)
+[https://lennvdh.github.io/bootstrap/](https://lennvdh.github.io/bootstrap/)
